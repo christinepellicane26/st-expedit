@@ -1,0 +1,43 @@
+body {
+    background-color: peachpuff;
+    margin-top: 50pt;
+    margin-bottom: 75pt;
+    margin-right: 40pt;
+    margin-left: 40pt;
+  }
+
+h1 {
+    color: red;
+    text-align: center
+      }
+
+h2{
+    text-align: center;
+}      
+
+p {
+    font-style: normal;
+    font-size: medium
+}  
+
+.special {
+    color: blueviolet;
+    font-weight: bolder
+}
+
+
+img {
+    background: #fabd62;
+    border: 5px solid #9799a7;
+    float: right;
+    margin: 8px 0 0 20px;
+    padding: 4px;
+  }
+  
+  
+
+https://photos.google.com/photo/AF1QipMAtWCgeg4AQVdaHszZlgWALJd1ZGFfhck4eC6D
+
+<img src="https://photos.google.com/photo/AF1QipMAtWCgeg4AQVdaHszZlgWALJd1ZGFfhck4eC6D" alt="St. Expedit">
+
+https://imgur.com/E7fPNZL
